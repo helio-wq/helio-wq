@@ -30,3 +30,7 @@ const junior = {
 - **Automação:** tirar etapas manuais do caminho de quem trabalha
 - **Sistemas sob medida:** software moldado à operação, e não o contrário
 - **Regras complexas:** transformar legislação e processos em fluxos simples de usar
+
+### 🐍 Contribuições
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helio-wq/helio-wq/output/github-snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helio-wq/helio-wq/output/github-snake.svg" /><img alt="Animação da cobrinha no gráfico de contribuições" src="https://raw.githubusercontent.com/helio-wq/helio-wq/output/github-snake.svg" /></picture>
